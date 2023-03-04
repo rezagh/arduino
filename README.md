@@ -1,6 +1,6 @@
 ** Arduino Uno **
 
-You will use digital pin modes when dealing with signals that are either "on" or "off", such as an LED, a switch, or another digital IC. Analog inputs are used when you want to read the voltage potential of something. This is typically used to read analog sensors.
+You will use digital pin modes when dealing with signals that are either "on" or "off", high or low, such as an LED, a switch, or another digital IC. Analog inputs are used when you want to read the voltage potential of something. This is typically used to read analog sensors.
 
 
 Analog Pins: The pins A0 to A5 are used as an analog input and it is in the range of 0-5V.

@@ -1,6 +1,6 @@
 //https://arduino-tutorials.net/tutorial/control-led-with-pushbutton-on-arduino
 
-int switchPin = 12;                     // switch pin
+int switchPin = 12;                     // switch pin - digital pin - only detects on or off
 int ledPin = LED_BUILTIN;               // Builtin LED pin
 int switchState = LOW;                  // State of the switch
 
